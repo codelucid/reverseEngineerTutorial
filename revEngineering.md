@@ -149,3 +149,9 @@
 - readme.md file
 
     File created upon the creation of a new repository.  The file is an effective way to describe the overall application. 
+
+***
+
+- Alternatives:
+
+    Could design the HTML pages to revolve around the Handlebars template engine, which would simplify the HTML layout
